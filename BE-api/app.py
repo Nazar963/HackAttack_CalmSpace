@@ -5,7 +5,6 @@ import numpy as np
 import io
 import logging
 
-
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -39,7 +38,7 @@ def normalize_db(db_value, original_min, original_max, new_min, new_max):
 def calculate_normalized_average_db(audio_segment):
     average_db = calculate_average_db(audio_segment)
     # Assuming the original dB range is -200 to 0
-    normalized_db = normalize_db(average_db, -200, 100, 0, 200)
+    normalized_db = normalize_db(average_db, -200, 0, 0, 500)
     return normalized_db
 
 @app.route('/process-data', methods=['POST'])
@@ -52,15 +51,15 @@ def process_data():
     audio_data = file.read()
 
     # ------------------------------- log per debug ------------------------------ #
-    # logger.debug(f"Received audio data type: {type(audio_data)}")
-    # logger.debug(f"Received audio data length: {len(audio_data)}")
-    # logger.debug(f"Received audio data sample: {audio_data[:100]}")
+    logger.debug(f"Received audio data type: {type(audio_data)}")
+    logger.debug(f"Received audio data length: {len(audio_data)}")
+    logger.debug(f"Received audio data sample: {audio_data[:100]}")
 
     audio_segment = AudioSegment.from_file(io.BytesIO(audio_data), format='wav')
     try:
         # average_db = calculate_average_db(audio_segment)
         average_db = calculate_normalized_average_db(audio_segment)
-        # logger.debug(f"hellooooo{average_db}")
+        logger.debug(f"hellooooo{average_db}")
         return jsonify(average_db=average_db)
     except Exception as e:
         return jsonify(error=str(e)), 500
