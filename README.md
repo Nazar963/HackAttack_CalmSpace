@@ -1,5 +1,7 @@
 # Audio Processing Hack Attack Project
 
+[![GitHub license](https://img.shields.io/github/license/Nazar963/Tester_variable_expansion)](https://github.com/Nazar963/Tester_variable_expansion/blob/master/LICENSE)
+
 A multi-container application for real-time audio recording, processing, and analysis. The system captures audio from the browser, processes it through a Flask-based AI service, and provides audio loudness analysis with a normalized decibel level output.
 
 ## 🏗️ Architecture Overview
@@ -293,6 +295,7 @@ docker-compose logs flask
 - [ ] Create audio processing analytics dashboard
 
 ## 📝 Contributing
+Feel free to submit issues or pull requests if you have suggestions for improving the application or adding more features.
 
 1. Fork the repository
 2. Create a feature branch
@@ -302,8 +305,15 @@ docker-compose logs flask
 
 ## 📄 License
 
-This project is created for educational and demonstration purposes.
+This project is open source and available under the [MIT License](LICENSE).
 
+## 📧 Contact
+For questions or feedback, please open an issue in the repository.
+
+## ⭐ Star this repository if you found it helpful!
+[![GitHub stars](https://img.shields.io/github/stars/Nazar963/HackAttack_CalmSpace?style=social)](https://github.com/Nazar963/HackAttack_CalmSpace/stargazers)
+
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Nazar963-lightgrey)](https://github.com/Nazar963)
+[![GitHub Follow](https://img.shields.io/github/followers/Nazar963?style=social)](https://github.com/Nazar963)
 ---
-
-**Note**: This is a development setup. For production deployment, additional security, performance, and monitoring configurations are recommended.
