@@ -51,8 +51,8 @@ This project consists of three main components:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd new_hackattack
+   git clone git@github.com:Nazar963/HackAttack_CalmSpace.git
+   cd HackAttack_CalmSpace
    ```
 
 2. **Install frontend dependencies** (recommended)
