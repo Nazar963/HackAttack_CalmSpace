@@ -15,6 +15,11 @@ WORKDIR /app
 # Set work directory
 WORKDIR /app
 
+# Install system dependencies including ffmpeg
+RUN apt-get update && apt-get install -y \
+    ffmpeg \
+    && rm -rf /var/lib/apt/lists/*
+
 # Install dependencies
 COPY requirements.txt /app/
 RUN chown -R flaskuser /app

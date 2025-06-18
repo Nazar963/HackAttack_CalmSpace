@@ -1044,3 +1044,201 @@ WARNING: This is a development server. Do not use it in a production deployment.
 2024-06-30 20:24:05,027 - app - DEBUG - Received audio data sample: b'RIFF&>\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x02>\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
 2024-06-30 20:24:05,028 - app - DEBUG - hellooooo0.0
 2024-06-30 20:24:05,029 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:24:05] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 12:57:48,568 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 12:57:48,569 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 12:57:48,570 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 12:58:18,735 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 12:58:18,735 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 12:58:18,737 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 12:59:24,028 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 12:59:24,028 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 12:59:24,029 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:00:31,300 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 13:00:31,300 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 13:00:31,302 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:03:59,737 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 13:03:59,737 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 13:03:59,739 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:07:51,252 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2025-06-18 13:07:51,387 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:08:03,585 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2025-06-18 13:08:03,654 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:08:18,200 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2025-06-18 13:08:18,269 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:08:40,816 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2025-06-18 13:08:40,876 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:11:26,038 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2025-06-18 13:11:26,079 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:11:53,993 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 13:11:53,993 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 13:11:53,994 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:12:21,827 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 13:12:21,828 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 13:12:21,829 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:12:56,438 - app - WARNING - No file part in request
+2025-06-18 13:12:56,440 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 13:12:56] "[31m[1mPOST /process-data HTTP/1.1[0m" 400 -
+2025-06-18 13:17:31,488 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 13:17:31,488 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 13:17:31,490 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:20:02,969 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 13:20:02,970 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 13:20:02,971 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 13:53:34,493 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 13:53:34,493 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 13:53:34,495 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 14:02:39,503 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2025-06-18 14:02:39,580 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 14:02:53,663 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2025-06-18 14:02:53,703 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 14:03:09,524 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2025-06-18 14:03:09,589 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 14:07:17,131 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 14:07:17,131 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 14:07:17,133 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 14:13:47,638 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 14:13:47,638 - app - DEBUG - Received audio data length: 264678
+2025-06-18 14:13:47,638 - app - DEBUG - File content type: application/octet-stream
+2025-06-18 14:13:47,638 - app - DEBUG - Audio segment created: duration=3000ms, channels=1, sample_rate=44100, sample_width=2
+2025-06-18 14:13:47,639 - app - DEBUG - RMS: 0.08836928755044937, Calculated dB: -21.073973178863525
+2025-06-18 14:13:47,639 - app - DEBUG - Normalized -21.073973178863525dB to 64.87671136856079
+2025-06-18 14:13:47,639 - app - DEBUG - Normalized average dB: 64.87671136856079
+2025-06-18 14:13:47,639 - app - INFO - Successfully processed audio, normalized dB: 64.87671136856079
+2025-06-18 14:13:47,640 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 14:13:47] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 14:13:57,525 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 14:13:57] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-18 14:14:05,343 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 14:14:05,343 - app - DEBUG - Received audio data length: 264678
+2025-06-18 14:14:05,343 - app - DEBUG - File content type: application/octet-stream
+2025-06-18 14:14:05,343 - app - DEBUG - Audio segment created: duration=3000ms, channels=1, sample_rate=44100, sample_width=2
+2025-06-18 14:14:05,344 - app - DEBUG - RMS: 0.08836928755044937, Calculated dB: -21.073973178863525
+2025-06-18 14:14:05,344 - app - DEBUG - Normalized -21.073973178863525dB to 64.87671136856079
+2025-06-18 14:14:05,344 - app - DEBUG - Normalized average dB: 64.87671136856079
+2025-06-18 14:14:05,344 - app - INFO - Successfully processed audio, normalized dB: 64.87671136856079
+2025-06-18 14:14:05,345 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 14:14:05] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 14:14:34,085 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 14:14:34,085 - app - DEBUG - Received audio data length: 264678
+2025-06-18 14:14:34,085 - app - DEBUG - File content type: application/octet-stream
+2025-06-18 14:14:34,085 - app - DEBUG - Audio segment created: duration=3000ms, channels=1, sample_rate=44100, sample_width=2
+2025-06-18 14:14:34,086 - app - DEBUG - RMS: 0.08836928755044937, Calculated dB: -21.073973178863525
+2025-06-18 14:14:34,086 - app - DEBUG - Normalized -21.073973178863525dB to 64.87671136856079
+2025-06-18 14:14:34,086 - app - DEBUG - Normalized average dB: 64.87671136856079
+2025-06-18 14:14:34,086 - app - INFO - Successfully processed audio, normalized dB: 64.87671136856079
+2025-06-18 14:14:34,086 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 14:14:34] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 14:30:23,782 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 14:30:23,783 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 14:30:23,786 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 14:34:24,705 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 14:34:24,705 - app - DEBUG - Received audio data length: 264678
+2025-06-18 14:34:24,705 - app - DEBUG - File content type: application/octet-stream
+2025-06-18 14:34:24,705 - app - DEBUG - Audio segment created: duration=3000ms, channels=1, sample_rate=44100, sample_width=2
+2025-06-18 14:34:24,706 - app - DEBUG - RMS: 0.08836928755044937, Calculated dB: -21.073973178863525
+2025-06-18 14:34:24,706 - app - DEBUG - Normalized -21.073973178863525dB to 64.87671136856079
+2025-06-18 14:34:24,706 - app - DEBUG - Normalized average dB: 64.87671136856079
+2025-06-18 14:34:24,706 - app - INFO - Successfully processed audio, normalized dB: 64.87671136856079
+2025-06-18 14:34:24,707 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 14:34:24] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 15:38:51,423 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 15:38:51,425 - app - DEBUG - Received audio data length: 92204
+2025-06-18 15:38:51,425 - app - DEBUG - File content type: audio/wav
+2025-06-18 15:38:51,426 - app - DEBUG - Audio segment created: duration=960ms, channels=1, sample_rate=48000, sample_width=2
+2025-06-18 15:38:51,427 - app - DEBUG - RMS: 1e-10, Calculated dB: -200.0
+2025-06-18 15:38:51,427 - app - DEBUG - Normalized -60dB to 0.0
+2025-06-18 15:38:51,427 - app - DEBUG - Normalized average dB: 0.0
+2025-06-18 15:38:51,427 - app - INFO - Successfully processed audio, normalized dB: 0.0
+2025-06-18 15:38:51,429 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:38:51] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 15:38:56,187 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 15:38:56,187 - app - DEBUG - Received audio data length: 224684
+2025-06-18 15:38:56,187 - app - DEBUG - File content type: audio/wav
+2025-06-18 15:38:56,187 - app - DEBUG - Audio segment created: duration=2340ms, channels=1, sample_rate=48000, sample_width=2
+2025-06-18 15:38:56,189 - app - DEBUG - RMS: 1e-10, Calculated dB: -200.0
+2025-06-18 15:38:56,189 - app - DEBUG - Normalized -60dB to 0.0
+2025-06-18 15:38:56,189 - app - DEBUG - Normalized average dB: 0.0
+2025-06-18 15:38:56,189 - app - INFO - Successfully processed audio, normalized dB: 0.0
+2025-06-18 15:38:56,189 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:38:56] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 15:39:32,484 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:39:32] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-18 15:39:34,392 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:39:34] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-18 15:39:35,900 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:39:35] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-18 15:39:43,111 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:39:43] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-18 15:40:20,989 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 15:40:20,989 - app - DEBUG - Received audio data length: 430
+2025-06-18 15:40:20,989 - app - DEBUG - File content type: text/html
+2025-06-18 15:40:21,204 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'wav', '-read_ahead_limit', '-1', '-i', 'cache:pipe:0', '-vn', '-f', 'wav', '-'])
+2025-06-18 15:40:21,256 - app - ERROR - Audio processing error: Decoding failed. ffmpeg returned error code: 1
+
+Output from ffmpeg/avlib:
+
+ffmpeg version 5.1.6-0+deb12u1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 12 (Debian 12.2.0-14)
+  configuration: --prefix=/usr --extra-version=0+deb12u1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librabbitmq --enable-librist --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --disable-sndio --enable-libjxl --enable-pocketsphinx --enable-librsvg --enable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libx264 --enable-libplacebo --enable-librav1e --enable-shared
+  libavutil      57. 28.100 / 57. 28.100
+  libavcodec     59. 37.100 / 59. 37.100
+  libavformat    59. 27.100 / 59. 27.100
+  libavdevice    59.  7.100 / 59.  7.100
+  libavfilter     8. 44.100 /  8. 44.100
+  libswscale      6.  7.100 /  6.  7.100
+  libswresample   4.  7.100 /  4.  7.100
+  libpostproc    56.  6.100 / 56.  6.100
+[wav @ 0x625496c298c0] invalid start code [60][33]do in RIFF header
+[cache @ 0x625496c2a140] Statistics, cache hits:0 cache misses:1
+cache:pipe:0: Invalid data found when processing input
+
+2025-06-18 15:40:21,257 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:40:21] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2025-06-18 15:40:59,961 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 15:40:59,962 - app - DEBUG - Received audio data length: 264678
+2025-06-18 15:40:59,962 - app - DEBUG - File content type: application/octet-stream
+2025-06-18 15:40:59,962 - app - DEBUG - Audio segment created: duration=3000ms, channels=1, sample_rate=44100, sample_width=2
+2025-06-18 15:40:59,963 - app - DEBUG - RMS: 0.08836928755044937, Calculated dB: -21.073973178863525
+2025-06-18 15:40:59,963 - app - DEBUG - Normalized -21.073973178863525dB to 64.87671136856079
+2025-06-18 15:40:59,963 - app - DEBUG - Normalized average dB: 64.87671136856079
+2025-06-18 15:40:59,964 - app - INFO - Successfully processed audio, normalized dB: 64.87671136856079
+2025-06-18 15:40:59,964 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:40:59] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 15:41:21,466 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 15:41:21,466 - app - DEBUG - Received audio data length: 357164
+2025-06-18 15:41:21,466 - app - DEBUG - File content type: audio/wav
+2025-06-18 15:41:21,466 - app - DEBUG - Audio segment created: duration=3720ms, channels=1, sample_rate=48000, sample_width=2
+2025-06-18 15:41:21,468 - app - DEBUG - RMS: 1e-10, Calculated dB: -200.0
+2025-06-18 15:41:21,469 - app - DEBUG - Normalized -60dB to 0.0
+2025-06-18 15:41:21,469 - app - DEBUG - Normalized average dB: 0.0
+2025-06-18 15:41:21,469 - app - INFO - Successfully processed audio, normalized dB: 0.0
+2025-06-18 15:41:21,470 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:41:21] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 15:42:47,529 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-18 15:42:47,530 - werkzeug - INFO -  * Running on http://172.18.0.2:5000/ (Press CTRL+C to quit)
+2025-06-18 15:42:47,531 - werkzeug - INFO -  * Restarting with stat
+2025-06-18 15:48:36,062 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 15:48:36,063 - app - DEBUG - Received audio data length: 74924
+2025-06-18 15:48:36,063 - app - DEBUG - File content type: audio/wav
+2025-06-18 15:48:36,063 - app - DEBUG - Audio segment created: duration=780ms, channels=1, sample_rate=48000, sample_width=2
+2025-06-18 15:48:36,064 - app - DEBUG - RMS: 1e-10, Calculated dB: -200.0
+2025-06-18 15:48:36,064 - app - DEBUG - Normalized -60dB to 0.0
+2025-06-18 15:48:36,064 - app - DEBUG - Normalized average dB: 0.0
+2025-06-18 15:48:36,064 - app - INFO - Successfully processed audio, normalized dB: 0.0
+2025-06-18 15:48:36,065 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:48:36] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 15:49:11,218 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 15:49:11,219 - app - DEBUG - Received audio data length: 190124
+2025-06-18 15:49:11,219 - app - DEBUG - File content type: audio/wav
+2025-06-18 15:49:11,219 - app - DEBUG - Audio segment created: duration=1980ms, channels=1, sample_rate=48000, sample_width=2
+2025-06-18 15:49:11,219 - app - DEBUG - RMS: 1e-10, Calculated dB: -200.0
+2025-06-18 15:49:11,219 - app - DEBUG - Normalized -60dB to 0.0
+2025-06-18 15:49:11,219 - app - DEBUG - Normalized average dB: 0.0
+2025-06-18 15:49:11,219 - app - INFO - Successfully processed audio, normalized dB: 0.0
+2025-06-18 15:49:11,220 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:49:11] "POST /process-data HTTP/1.1" 200 -
+2025-06-18 15:49:47,141 - app - DEBUG - Received audio data type: <class 'bytes'>
+2025-06-18 15:49:47,142 - app - DEBUG - Received audio data length: 46124
+2025-06-18 15:49:47,142 - app - DEBUG - File content type: audio/wav
+2025-06-18 15:49:47,142 - app - DEBUG - Audio segment created: duration=480ms, channels=1, sample_rate=48000, sample_width=2
+2025-06-18 15:49:47,142 - app - DEBUG - RMS: 1e-10, Calculated dB: -200.0
+2025-06-18 15:49:47,143 - app - DEBUG - Normalized -60dB to 0.0
+2025-06-18 15:49:47,143 - app - DEBUG - Normalized average dB: 0.0
+2025-06-18 15:49:47,143 - app - INFO - Successfully processed audio, normalized dB: 0.0
+2025-06-18 15:49:47,144 - werkzeug - INFO - 172.18.0.1 - - [18/Jun/2025 15:49:47] "POST /process-data HTTP/1.1" 200 -
