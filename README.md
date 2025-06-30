@@ -312,6 +312,17 @@ For questions or feedback, please open an issue in the repository.
 ## ⭐ Star this repository if you found it helpful!
 [![GitHub stars](https://img.shields.io/github/stars/Nazar963/HackAttack_CalmSpace?style=social)](https://github.com/Nazar963/HackAttack_CalmSpace/stargazers)
 
+## 👨‍💻 Author
+
+**Nazar Al Jendli & Natalia Korikova**
+
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Nazar963-lightgrey)](https://github.com/Nazar963)
+[![GitHub Follow](https://img.shields.io/github/followers/Nazar963?style=social)](https://github.com/Nazar963)
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-nakoriko-lightgrey)](https://github.com/nakoriko)
+[![GitHub Follow](https://img.shields.io/github/followers/nakoriko?style=social)](https://github.com/nakoriko)
+
 ---
 
 🗿 *"In a world of digital noise, we built an oasis – where code breathes serenity, algorithms whisper peace, and bytes dissolve into tranquility. This isn't just an app; it's rebellion against chaos."*
@@ -320,6 +331,3 @@ For questions or feedback, please open an issue in the repository.
 - 𝙉𝙊𝙄𝙎𝙀 ███████████████ 100%  
 + 𝘾𝙖𝙡𝙢𝙎𝙥𝙖𝙘𝙚 ▁▂▃▄▅▆▇ 100%  
 ```
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Nazar963-lightgrey)](https://github.com/Nazar963)
-[![GitHub Follow](https://img.shields.io/github/followers/Nazar963?style=social)](https://github.com/Nazar963)
----
